@@ -17,7 +17,7 @@ namespace ICE_Task_3
         public void ICalculateArea()
         {
             double circleArea = Math.PI * Math.Pow(Radius, 2);
-            Console.WriteLine($"The total area is: {circleArea}");
+            Console.WriteLine($"The total area is: {circleArea}\n");
         }
     }
 }

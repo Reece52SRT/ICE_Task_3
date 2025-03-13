@@ -20,7 +20,7 @@ namespace ICE_Task_3
         public void ICalculateArea()
         {
             double area = Length * Width;
-            Console.WriteLine($"The total area is: {area}");
+            Console.WriteLine($"The total area is: {area}\n");
         }
     }
 }

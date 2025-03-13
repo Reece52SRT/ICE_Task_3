@@ -17,7 +17,7 @@ namespace ICE_Task_3
 
         public virtual void Display()
         {
-            Console.WriteLine($"Virtual Display");
+            Console.WriteLine($"Shape Name: {Name}");
         }
     }
 }
